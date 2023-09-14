@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Isaiah bennett"
+  name   : "Isaiah Bennett"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Student at Middlebury College Environmental Geography"
   links:
