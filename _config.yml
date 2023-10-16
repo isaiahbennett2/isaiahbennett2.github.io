@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Portfolio of Open GIScience work.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "sunrise"
 search: true
 
 # Build settings
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Isaiah Bennett"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/isaiah.jpg"
   bio    : "Student at Middlebury College Environmental Geography"
   links:
     - label: "Website"
