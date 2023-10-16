@@ -9,7 +9,9 @@ tags:
   - Uncertainty 
   - Error
 ---
-In Chapter 6 of "Uncertainty" by Longley et al. (2008), the authors delve into the prevalent realm of uncertainty in spatial analysis. This chapter undersemphasizes the need for a comprehensive understanding of uncertainty to conduct accurate research using spatial analyses. Figure 6.1 in the chapter's introduction outlines the key steps for spatial analyses and their corresponding filters for error during the research process.
+In Chapter 6 of "Uncertainty" by Longley et al. (2008), the authors delve into the prevalent realm of uncertainty in spatial analysis. This chapter emphasizes the need for a comprehensive understanding of uncertainty to conduct accurate research using spatial analyses. Figure 6.1 in the chapter's introduction outlines the key steps for spatial analyses and their corresponding filters for error during the research process.
+
+![Figure 6.1 A conceptual view of uncertainty. The three filters, Ul , U2, and U3 can distort the way in which the complexity of the real world is conceived, measured and represented, and analyzed in a cumulative way]("/assets/images/figure6")
 
 ## Understanding Uncertainty
 
