@@ -1,5 +1,5 @@
 ---
-title: "Reflection on the Realm of Reproducibility and Open GIScience"
+title: "On the Realm of Reproducibility and Open GIScience"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
