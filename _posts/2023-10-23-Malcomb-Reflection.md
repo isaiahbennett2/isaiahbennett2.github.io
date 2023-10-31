@@ -11,7 +11,7 @@ tags:
 
 [Link to the reproduction study](https://github.com/isaiahbennett2/RPr-Malcomb-2014/docs/01-RPr-Malcomb-2014.html)
 
-This was my second go around with a reproduction study! Building off of my experience from my [reproduction of Chakraborty et al. 2021](https://isaiahbennett2.github.io/RPr-Chakraborty-2021/) this reanalysis went a lot more smoothly. Working with the reproduction of "Vulnerability modeling for sub-Saharan Africa: An operationalized approach in Malawi" from Malcomb et al, I explored themes of research design validity and uncertainty that has stemmed from making subjective research desicions. 
+This was my second go around with a reproduction study! Building off of my experience from my [reproduction of Chakraborty et al. 2021](https://isaiahbennett2.github.io/RPr-Chakraborty-2021/) this reanalysis went a lot more smoothly. Working with the reproduction of "Vulnerability modeling for sub-Saharan Africa: An operationalized approach in Malawi" from Malcomb et al. 2014, I explored themes of research design validity and uncertainty that has stemmed from making subjective research desicions. 
 
 The original study constructs a deductively hierarchical vulnerability model using quantitative and qualitative data at the scale of Traditional Authorities, a small political zone based on local political decision making power in Malawi. The reproduction notes how the original study is frequently ambiguous about its data transformations, making it difficult to accurately reproduce. 
 
