@@ -2,7 +2,7 @@
 title: "Reflection of Kang et al. 2020 Reanalysis"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Reproduction
 tags: 
   - Reproduction Study 
   - COVID-19

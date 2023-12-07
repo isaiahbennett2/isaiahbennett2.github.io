@@ -2,7 +2,7 @@
 title: "Reflection of Spielman et al. 2020 Reproduction"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Reproduction
 tags: 
   - Reproduction Study
   - Social Vulnerability

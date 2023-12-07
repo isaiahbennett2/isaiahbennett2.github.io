@@ -2,7 +2,7 @@
 title: "Reflection of Malcomb et al. 2014 Reproduction"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Reproduction
 tags: 
   - Reproduction Study
   - Vulnerability 

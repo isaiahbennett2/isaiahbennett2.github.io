@@ -2,7 +2,7 @@
 title: "Reflection of Chakraborty J. 2021 Reproduction"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Reproduction
 tags: 
   - Reproduction Study
   - COVID-19
