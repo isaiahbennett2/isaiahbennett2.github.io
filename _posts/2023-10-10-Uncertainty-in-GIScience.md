@@ -34,3 +34,7 @@ This responsibility cannot be seen on purely an individual level. To truly tackl
 
 In conclusion, the all too common uncertainty in GIS work poses the greatest threat to the absolute truth of GIS research and the reputation of GIScience as a discipline; therefore, it should be in the greatest interest of all GIS scientists to identify, tackle, and share all aspects of uncertainty that arise in all forms of spatial analyses.
 
+References
+[Longley, P. A., M. F. Goodchild, D. J. Maguire, and D. W. Rhind. 2008. Geographical information systems and science 2nd ed. Chichester: Wiley.](https://www.wiley.com/en-nz/Geographical+Information+Systems:+Principles,+Techniques,+Management+and+Applications,+2nd+Edition,+Abridged-p-9780471735458)
+[Tullis, J. A., and B. Kar. 2021. Where Is the Provenance? Ethical Replicability and Reproducibility in GIScience and Its Critical Applications. Annals of the American Association of Geographers 111 (5):1318–1328. DOI:10.1080/24694452.2020.1806029](https://www.tandfonline.com/doi/full/10.1080/24694452.2020.1806029)
+
