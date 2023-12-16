@@ -9,7 +9,7 @@ tags:
   - Spatial Analysis 
 ---
 
-[Link to the reproduction study](https://isaiahbennett2.github.io/RPr-Malcomb-2014/01-RPr-Malcomb-2014)
+[Link to the reproduction study](https://isaiahbennett2.github.io/RPr-Malcomb-2014/) 
 
 This was my second go-around with a reproduction study! Building off of my experience from my [reproduction of Chakraborty et al. 2021](https://isaiahbennett2.github.io/RPr-Chakraborty-2021/) this reanalysis went a lot more smoothly. Working with the reproduction of "Vulnerability modeling for sub-Saharan Africa: An operationalized approach in Malawi" from Malcomb et al. 2014, I explored themes of research design validity and uncertainty that have stemmed from making subjective research decisions. 
 
