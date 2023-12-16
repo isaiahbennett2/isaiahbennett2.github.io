@@ -19,3 +19,6 @@ This range of GIS is highlighted clearly by Martin et al. 2007 through a list of
 4. Universally applicable
 
 Looking at these four themes of GIS discourse, the first two themes made me slightly uneasy, while the last two themes resonated with what attracted me to the technology. I do not agree that GIS is singular especially when it comes to open source GIS. The beauty of open-source GIS is that it is a collective collaboration to develop and advance GIS as a tool/science. Additionally, in that sense, due to its collaborative nature, its progress cannot always be linear. Perhaps, it could always be seen as advancing but with processes of peer review and revision, it is hard for me to describe that advancement simply as linear. The ever-expanding nature and universal application of GIS, however, are definitely two aspects of GIS that make it appealing to me as a field that has such potential for growth and impact. 
+
+Additional References:
+[St. Martin, K., and J. Wing. 2007. The discourse and discipline of GIS. Cartographica 42 (3):235–248. DOI:10.3138/carto.42.3.235-248](https://www.researchgate.net/publication/220144181_The_Discourse_and_Discipline_of_GIS)
