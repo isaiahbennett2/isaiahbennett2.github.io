@@ -3,4 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, this is my fake professional GIS website. Please email me and offer me a lucrative job in a preferable location.
+This site is a representation of my work throughout the fall 2023 semester from Middlebury College GEOG0361, Open GIScience with Professor Joseph Holler. 
+
+
