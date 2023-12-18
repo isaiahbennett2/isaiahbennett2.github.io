@@ -9,7 +9,7 @@ tags:
   - Environmental Justice
 ---
 
-[Link to the reanalysis](https://isaiahbennett2.github.io/Chicago-green-space-final/)
+[Link to the reproduction](https://isaiahbennett2.github.io/Chicago-green-space-final/)
 
 After working through four uniquely challenging reproduction studies with the GEOG0361 class, it was finally time to attempt writing my own!
 
