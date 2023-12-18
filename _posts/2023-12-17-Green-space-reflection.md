@@ -9,4 +9,4 @@ tags:
   - Environmental Justice
 ---
 
-[Link to the reanalysis]
+[Link to the reanalysis](https://isaiahbennett2.github.io/RPr-Chakraborty-2021/Chicago-green-space-final/)
