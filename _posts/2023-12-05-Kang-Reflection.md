@@ -10,6 +10,7 @@ tags:
 ---
 
 [Link to the reanalysis](https://isaiahbennett2.github.io/RPr-Kang-2020//)
+
 [Link to the original study](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-020-00229-x)
 
 This was not only the most collaborative, but also the most advanced reproduction study that I have done so far. Kang et al. is a network analysis study that looks at the accessibility of COVID-19 healthcare resources such as hospital beds and ventilators to at risk populations (over 50 years old) and covid cases over the state of Illinois based on road networks and speed limits. Due to incredibly large file sizes the reproduction focuses solely on the city of Chicago Expanding off the [previous work](https://github.com/isaiahbennett2/RPr-Kang-2020/blob/main/procedure/code/02-COVID-19Acc-Original.ipynb) of the class, this renalysis improved the study by implmenting two major changes: 
