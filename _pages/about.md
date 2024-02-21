@@ -14,6 +14,7 @@ Throughout the semester we explored the realm of open GIScience through a myriad
 - The importance of reproduction/replication studies in the realm of open science
 - How to practice open science principles
 - How to execute and expand a reproduction study
+
 The culmination of all of our work navigating through these topics led to the final project of learning how to write [my own reproduction study](https://isaiahbennett2.github.io/reproduction/Green-space-reflection/).   
 
 In this age of newly emerging science and information, Open Science is the future. I am honored to have had the opportunity to delve into the material you will find on this site through one of the few undergraduate Geography programs in the country that offers an entrance into the realm of reproducibility and open GIScience at Middlebury College with Professor Holler. 
